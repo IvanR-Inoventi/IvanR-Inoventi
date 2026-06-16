@@ -1,16 +1,23 @@
-## Hi there 👋
+# InovenTI
 
-<!--
-**IvanR-Inoventi/IvanR-Inoventi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soluciones integrales de gestión de proyectos.
 
-Here are some ideas to get you started:
+Ayudamos a las organizaciones a obtener estructura, control y visibilidad en la ejecución de sus proyectos mediante metodologías, tecnología y seguimiento continuo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Áreas de trabajo
+
+- Gestión de proyectos
+- PMCenter
+- PMC-tool
+- Consultoría empresarial
+- Transformación digital
+
+## Repositorios
+
+Esta organización contiene proyectos, herramientas y desarrollos relacionados con las soluciones tecnológicas de InovenTI.
+
+🌐 https://www.inoventi.com.mx
+
+---
+
+Si no puedes verlo, no puedes controlarlo.
